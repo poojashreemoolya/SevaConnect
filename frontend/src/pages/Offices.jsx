@@ -1,3 +1,4 @@
+import "./LocalInfo.css";
 
 import { useEffect, useState } from "react";
 import { getOffices } from "../services/officeAPI";

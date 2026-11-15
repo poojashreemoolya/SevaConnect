@@ -1,4 +1,5 @@
 
+import "./LocalInfo.css";
 import { useEffect, useState } from "react";
 import { getAnnouncements } from "../services/announcementAPI";
 

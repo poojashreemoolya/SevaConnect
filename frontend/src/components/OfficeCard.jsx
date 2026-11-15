@@ -1,3 +1,4 @@
+import "../pages/LocalInfo.css";
 
 function OfficeCard({ office }) {
   return (
